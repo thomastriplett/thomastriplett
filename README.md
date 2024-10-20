@@ -1,5 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Thomas</h1>
+<p align="center">I'm a psychology autodidact 🧠, halfway decent musician 🎤, and Lead Software Engineer at State Farm 💻.</p>
 
+<p align="center">I view programming as an art 🎨.  When coding and designing, I love exploring new technologies and integrating them in creative ways to make a difference.</p>
+
+<h2 align="center">Tech Stack</h1>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,typescript,html,css,kubernetes,docker,go,python,java,aws,postgresql,terraform,gitlab,nodejs,yarn" />
+  </a>
+</p>
 <!--
 **thomastriplett/thomastriplett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
