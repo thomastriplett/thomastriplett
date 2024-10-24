@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Thomas</h1>
-<p align="center">I'm a psychology autodidact 🧠, halfway decent musician 🎤, and Lead Software Engineer at State Farm 💻.</p>
+<p align="center">I'm a <a href="https://www.simplypsychology.org/carl-jung.html">psychology</a> autodidact 🧠, halfway decent <a href="https://www.instagram.com/p/CH1whGcnPn9/">musician</a> 🎤, and Lead Software Engineer at <a href="https://www.statefarm.com/">State Farm</a> 💻.</p>
 
 <p align="center">I view programming as an art 🎨.  When coding and designing, I love exploring new technologies and integrating them in creative ways to make a difference.</p>
 
