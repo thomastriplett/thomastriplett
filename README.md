@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Thomas</h1>
-<p align="center">I'm a <a href="https://www.simplypsychology.org/carl-jung.html">psychology</a> nerd 🧠, halfway decent <a href="https://www.instagram.com/p/CH1whGcnPn9/">singer</a> 🎤, and Senior Software Engineer at <a href="https://www.alaskaair.com/">Alaska Airlines</a> 💻.</p>
+<p align="center">I'm a <a href="https://www.simplypsychology.org/carl-jung.html">psychology</a> nerd 🧠, <a href="https://www.instagram.com/p/CH1whGcnPn9/">singer</a> 🎤, and Senior Software Engineer at <a href="https://www.alaskaair.com/">Alaska Airlines</a> 💻.</p>
 
 <p align="center">I view programming as an art 🎨.  When coding and designing, I love exploring new technologies and integrating them in creative ways to make a real-world difference.</p>
 
